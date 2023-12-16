@@ -1,0 +1,140 @@
+,name,company,year,Price,kms_driven,fuel_type
+0,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol
+2,Hyundai Grand i10,Hyundai,2014,325000,28000,Petrol
+5,Hyundai Eon,Hyundai,2013,190000,25000,Petrol
+10,Hyundai Elite i20,Hyundai,2014,415000,32000,Petrol
+12,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol
+21,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol
+22,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol
+23,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol
+59,Hyundai Eon,Hyundai,2013,190000,25000,Petrol
+83,Hyundai i20 Magna,Hyundai,2009,195000,32000,Petrol
+85,Hyundai Verna Transform,Hyundai,2008,160000,45000,Petrol
+88,Hyundai Elite i20,Hyundai,2014,415000,32000,Petrol
+98,Hyundai i10 Magna,Hyundai,2014,265000,18000,Petrol
+99,Hyundai Verna Fluidic,Hyundai,2015,525000,35000,Diesel
+106,Hyundai Grand i10,Hyundai,2014,345000,49000,Diesel
+108,Hyundai i20 Asta,Hyundai,2012,329500,36200,Diesel
+119,Hyundai i20 Sportz,Hyundai,2011,350000,33333,Diesel
+130,Hyundai i20 Asta,Hyundai,2009,210000,65480,Petrol
+144,Hyundai Elite i20,Hyundai,2018,599999,21000,Petrol
+157,Hyundai i20 Sportz,Hyundai,2014,370000,60000,Diesel
+158,Hyundai i10 Sportz,Hyundai,2010,168000,45872,Petrol
+167,Hyundai Eon Era,Hyundai,2013,185000,27000,Petrol
+176,Hyundai i20,Hyundai,2009,199000,31000,Petrol
+178,Hyundai Fluidic Verna,Hyundai,2015,540000,38000,Diesel
+183,Hyundai Santro Xing,Hyundai,2005,49000,7500,Petrol
+187,Hyundai Creta 1.6,Hyundai,2017,895000,32000,Petrol
+203,Hyundai Grand i10,Hyundai,2014,365000,20000,Petrol
+204,Hyundai i20 Active,Hyundai,2015,500000,18000,Petrol
+239,Hyundai i20 Active,Hyundai,2015,535000,37000,Diesel
+244,Hyundai Eon Sportz,Hyundai,2012,178000,30000,Petrol
+250,Hyundai i20 Asta,Hyundai,2012,329500,36200,Diesel
+271,Hyundai Grand i10,Hyundai,2014,410000,41000,Petrol
+275,Hyundai Santro Xing,Hyundai,2000,59000,56450,Petrol
+276,Hyundai Fluidic Verna,Hyundai,2015,540000,38000,Diesel
+283,Hyundai Accent GLX,Hyundai,2006,80000,56000,Petrol
+311,Hyundai Verna Fluidic,Hyundai,2012,444999,40000,Diesel
+320,Hyundai Elite i20,Hyundai,2016,549999,9000,Petrol
+324,Hyundai Verna Fluidic,Hyundai,2013,401000,45000,Diesel
+326,Hyundai Elantra SX,Hyundai,2013,600000,20000,Petrol
+331,Hyundai Grand i10,Hyundai,2014,365000,20000,Petrol
+332,Hyundai i20 Active,Hyundai,2015,500000,18000,Petrol
+334,Hyundai Grand i10,Hyundai,2017,524999,6821,Petrol
+335,Hyundai i20,Hyundai,2014,449999,23000,Petrol
+336,Hyundai Eon,Hyundai,2014,174999,14000,Petrol
+337,Hyundai i10,Hyundai,2012,244999,38000,Petrol
+338,Hyundai i20 Active,Hyundai,2015,574999,35000,Diesel
+341,Hyundai Accent,Hyundai,2010,99999,45000,Petrol
+342,Hyundai Verna,Hyundai,2014,489999,44000,Diesel
+345,Hyundai i10 Sportz,Hyundai,2012,230000,34000,Petrol
+362,Hyundai i10 Magna,Hyundai,2011,175000,45000,Petrol
+370,Hyundai Verna 1.4,Hyundai,2014,375000,36000,Petrol
+376,Hyundai Elite i20,Hyundai,2015,450000,20000,Diesel
+384,Hyundai Santro Xing,Hyundai,2006,75000,46000,Petrol
+386,Hyundai Sonata Transform,Hyundai,2017,190000,36469,Diesel
+387,Hyundai Elite i20,Hyundai,2018,600000,7800,Petrol
+392,Hyundai Grand i10,Hyundai,2017,450000,15141,Petrol
+396,Hyundai Grand i10,Hyundai,2016,280000,59910,Diesel
+398,Hyundai Creta 1.6,Hyundai,2016,950000,25000,Petrol
+399,Hyundai i20 Magna,Hyundai,2013,310000,35000,Petrol
+401,Hyundai Grand i10,Hyundai,2014,340000,35000,Petrol
+416,Hyundai i20 Magna,Hyundai,2010,195000,36000,Petrol
+421,Hyundai Verna 1.6,Hyundai,2017,800000,12000,Petrol
+433,Hyundai Elite i20,Hyundai,2015,405000,28000,Petrol
+434,Hyundai Elite i20,Hyundai,2015,400000,30000,Petrol
+440,Hyundai Elite i20,Hyundai,2015,419000,20000,Petrol
+442,Hyundai Eon Era,Hyundai,2018,140000,2110,Petrol
+444,Hyundai i10 Magna,Hyundai,2008,275000,100200,Petrol
+450,Hyundai Xcent Base,Hyundai,2016,300000,140000,Diesel
+452,Hyundai Accent Executive,Hyundai,2009,165000,48000,Petrol
+468,Hyundai Verna 1.6,Hyundai,2016,195000,56000,Diesel
+474,Hyundai Santro Xing,Hyundai,2003,120000,50000,Petrol
+486,Hyundai Eon Magna,Hyundai,2014,190000,35000,Petrol
+490,Hyundai Grand i10,Hyundai,2017,400000,20000,Petrol
+491,Hyundai Eon D,Hyundai,2016,120000,87000,Petrol
+498,Hyundai Creta 1.6,Hyundai,2016,1000000,8000,Petrol
+504,Hyundai Grand i10,Hyundai,2015,340000,53000,Petrol
+505,Hyundai Eon D,Hyundai,2018,260000,25000,Petrol
+508,Hyundai Verna Fluidic,Hyundai,2012,350000,10000,Diesel
+517,Hyundai Verna 1.6,Hyundai,2019,900000,2000,Petrol
+519,Hyundai Getz Prime,Hyundai,2009,110000,20000,Petrol
+520,Hyundai Santro,Hyundai,2000,51999,88000,Petrol
+521,Hyundai Getz Prime,Hyundai,2009,115000,20000,Petrol
+525,Hyundai Fluidic Verna,Hyundai,2013,350000,117000,Diesel
+528,Hyundai i20 Asta,Hyundai,2010,300000,10750,Petrol
+532,Hyundai Verna Fluidic,Hyundai,2015,430000,73000,Diesel
+536,Hyundai Accent GLE,Hyundai,2006,90000,55000,Petrol
+540,Hyundai i10,Hyundai,2009,215000,27000,Petrol
+552,Hyundai Verna VGT,Hyundai,2010,205000,47900,Diesel
+558,Hyundai i10 Era,Hyundai,2011,175000,30000,Petrol
+563,Hyundai Xcent SX,Hyundai,2015,400000,43000,Diesel
+564,Hyundai Eon Magna,Hyundai,2013,185000,23000,Petrol
+574,Hyundai i20 Magna,Hyundai,2010,210000,50000,Petrol
+575,Hyundai i10 Magna,Hyundai,2009,170000,75000,Petrol
+587,Hyundai Verna 1.6,Hyundai,2018,855000,42000,Diesel
+593,Hyundai Grand i10,Hyundai,2014,340000,25000,Petrol
+594,Hyundai Elite i20,Hyundai,2017,550000,15000,Petrol
+605,Hyundai Elite i20,Hyundai,2015,500000,22000,Petrol
+610,Hyundai Elite i20,Hyundai,2015,470000,30000,Petrol
+611,Hyundai Santro Xing,Hyundai,2014,179000,57000,Petrol
+614,Hyundai Eon Era,Hyundai,2013,190000,39700,Petrol
+615,Hyundai Elantra 1.8,Hyundai,2012,500000,65000,Petrol
+618,Hyundai Eon Era,Hyundai,2012,188000,38000,Petrol
+619,Hyundai Grand i10,Hyundai,2016,380000,27000,Petrol
+620,Hyundai Verna Fluidic,Hyundai,2011,365000,43000,Diesel
+622,Hyundai i20 Magna,Hyundai,2011,240000,42000,Petrol
+678,Hyundai Eon D,Hyundai,2018,280000,35000,Petrol
+681,Hyundai Santro AE,Hyundai,2011,165000,45000,Petrol
+685,Hyundai Santro,Hyundai,2003,60000,51000,Petrol
+691,Hyundai Getz GLE,Hyundai,2007,99000,55000,Petrol
+693,Hyundai Creta 1.6,Hyundai,2019,1200000,0,Petrol
+694,Hyundai Santro Xing,Hyundai,2007,115000,46000,Petrol
+695,Hyundai Santro Xing,Hyundai,2009,88000,43200,Petrol
+697,Hyundai Santro Xing,Hyundai,2007,135000,42000,Petrol
+699,Hyundai i10 Sportz,Hyundai,2011,220000,38000,Petrol
+700,Hyundai Grand i10,Hyundai,2017,424999,2550,Petrol
+701,Hyundai Santro Xing,Hyundai,2007,135000,47000,Petrol
+710,Hyundai Eon Era,Hyundai,2014,200000,28400,Petrol
+711,Hyundai Eon,Hyundai,2014,200000,28000,Petrol
+713,Hyundai Verna 1.6,Hyundai,2012,600000,29000,Diesel
+722,Hyundai Santro Xing,Hyundai,2007,135000,46000,Petrol
+723,Hyundai Santro,Hyundai,2002,60000,47000,Petrol
+729,Hyundai Santro Xing,Hyundai,2007,55000,65000,Petrol
+731,Hyundai Grand i10,Hyundai,2014,320000,41000,Petrol
+734,Hyundai Eon Magna,Hyundai,2017,300000,1600,Petrol
+745,Hyundai Eon D,Hyundai,2013,170000,20000,Petrol
+748,Hyundai Elite i20,Hyundai,2017,599999,31000,Petrol
+749,Hyundai i10 Magna,Hyundai,2009,400000,33000,Petrol
+750,Hyundai Creta,Hyundai,2016,900000,60000,Diesel
+759,Hyundai i20 Asta,Hyundai,2014,425000,31000,Petrol
+765,Hyundai i20 Magna,Hyundai,2011,230000,47000,Petrol
+772,Hyundai Santro Xing,Hyundai,2006,85000,60000,Petrol
+784,Hyundai Santro AE,Hyundai,2003,60000,70000,Petrol
+786,Hyundai Eon,Hyundai,2018,260000,25000,Petrol
+789,Hyundai Getz Prime,Hyundai,2009,115000,20000,Petrol
+791,Hyundai Santro Xing,Hyundai,2004,45000,137495,Petrol
+798,Hyundai Elite i20,Hyundai,2011,290000,40000,Petrol
+799,Hyundai i20 Select,Hyundai,2011,290000,40000,Petrol
+802,Hyundai Elite i20,Hyundai,2018,510000,2100,Petrol
+805,Hyundai Getz,Hyundai,2006,125000,80000,Petrol
