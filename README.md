@@ -31,4 +31,4 @@ for installation you require jupyter notebook, pycharm or Vscode for streamlit, 
 
 # Resources
 Chat-gpt,google,youtube 
-(youtube link of project has been provided.)
+
